@@ -7,4 +7,4 @@ Tradicionalmente, los practicantes obtienen la temperatura del suelo {\it in-sit
 En este informe, presentamos un método para el seguimiento a corto plazo de la variación temporal de la radiancia térmica con el uso de un sistema aéreo no tripulado (UAS). En nuestro enfoque, retro-proyectamos la reconstrucción espacial obtenida con la estructura del movimiento (SfM) para estimar la radiación térmica correspondiente a las estructuras tridimensionales. Luego, registramos los ortomosaicos resultantes usando un esquema piramidal. Usamos la primera nube de puntos como referencia fija a medida que nuevos ortomosaicos están disponibles. Finalmente, estimamos la dinámica de la radiación térmica usando la diferencia de las medidas de intensidad entre los ortomosaicos registradas.
 
 
-<img src='images/falcon.png'>
+<img src='https://github.com/joaquinsalas/variacionTemporal/images/falcon.png'>
